@@ -106,6 +106,7 @@
 //  <i>Dynamic Heap Management
 #define RT_USING_HEAP
 #define RT_USING_SMALL_MEM
+#define RT_USING_SMALL_MEM_AS_HEAP
 // </c>
 // <c1>using tiny size of memory
 //  <i>using tiny size of memory
